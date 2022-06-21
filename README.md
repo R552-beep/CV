@@ -14,8 +14,10 @@ The world of modern technology keeps me both motivated and dedicated to working 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Acebook-metaperverse](https://github.com/R552-beep/acebook-metaperverse.git)| A Facebook clone which allows users to sign up, login, create, view and like posts and comments, |JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, HTML, CSS, Jest, Cypress |
+| [Makers-BnB](https://github.com/R552-beep/Makers-BnB.git) | A Air BnB clone which allows users to hire and rent out residential property | Ruby, Sinatra, PostgresSQL, Activerecord, Rspec, Capybara |
+| [Rock Paper Scissors](https://github.com/R552-beep/rps-challenge.git)|A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges|Ruby, Sinatra, HTML, CSS, Rspec, Capybara|
+
 
 ## Work Experience
 
