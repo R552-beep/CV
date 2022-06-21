@@ -87,5 +87,7 @@ When faced with a challenging obstacle, I am the type of person that will commit
 - 10 GCSEs including Maths and English
 
 ## Hobbies
-
+- Modern Arnis (Martial Arts & Self Defence CIC)
+- Netball
+- Cooking
 
