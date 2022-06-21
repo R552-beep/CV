@@ -19,13 +19,26 @@ The world of modern technology keeps me both motivated and dedicated to working 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Peabody Housing Ass** (October 2018 to May 2022)  
+_Senior Sales Executive _
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Hill Partnership ** (March 2018 to October 2018)
+_Sales Executive _
+
+**East Thames(Part of the L&Q Group) ** (March 2015 to March 2018)
+_Sales Associates _
+
+**Bairstow Eves ** (October 2007 to March 2015)
+_Senior Sales Progressor _
+
+**Greenwich Leisure ltd ** (Feb 2004 to September 2007)
+_Wellness Supervisor _
+
+
+
+
 
 - Any experience relevent to software development
 
