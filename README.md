@@ -58,32 +58,34 @@ When faced with a challenging obstacle, I am the type of person that will commit
 
 **Senior Sales Progressor**
 
-<h3>Greenwich Leisure ltd (Feb 2004 to September 2007)</h3>
+<h3>Greenwich Leisure ltd (February 2004 to September 2007)</h3>
 
 **Wellness Supervisor**
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (March 2022 to June 2022)
+- Object-oriented design
+- Focus on pair programming and group projects
+- Agile working style 
+- EQ, empathy and teamwork workshops
+- XP values
+- Full-stack web development
+- Independent learning and problem-solving
+- Experience with MVC framework
+- Frameworks/library’s: Express, React, Sinatra
+- Databases: PostgreSQL, Mongoose
+- Testing: Rspec, Jest, Cypress
 
-#### Your University / College (start_date to end_date)
+#### Newham Sixth Form College (Sep 1999 to June 2002)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BTEC National Diploma in Media Studies
 
-#### Any other qualifications
+#### Plashet Secondary School (Sep 1994 to June 1999)
 
-That in some arguable way make you a better software developer or well-rounded person
+- 10 GCSEs including Maths and English
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+
