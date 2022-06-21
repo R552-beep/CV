@@ -18,19 +18,37 @@ The world of modern technology keeps me both motivated and dedicated to working 
 | [Makers-BnB](https://github.com/R552-beep/Makers-BnB.git) | A Air BnB clone which allows users to hire and rent out residential property | Ruby, Sinatra, PostgresSQL, Activerecord, Rspec, Capybara |
 | [Rock Paper Scissors](https://github.com/R552-beep/rps-challenge.git)|A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges|Ruby, Sinatra, HTML, CSS, Rspec, Capybara|
 
+## Soft Skills
+
+#### Communication 
+Is an important skill in any profession - In my previous role I have been able to effectively communicate, advocate and negotiate with a broad range of stakeholders, customers & marketing team. I have worked on complex projects where there were delays and land issues on a large scale, this included a written update to my customers & detailed report to head of sales with strategies to overcome the problem. 
+These skills have proven useful in the Makers Academy team projects and specially when coding in a pair. It's essential that you not only confidently express your ideas regarding a project, but also listen carefully to others.
+
+#### Critical Thinker
+One key aspect of working as a software developer that I love is: problem solving. My background in sales helped me to develop the skills that I need to be capable of being assertive and delivering solutions to problems. I have found coding to help improve my logical reasoning and decision making abilities.
+
+#### Perseverance and Resilience
+When faced with a challenging obstacle, I am the type of person that will commit to spending the time necessary to break it down. When a task seems impossible at first, I do not give up because I believe that if you set your mind on something, you will always be able to achieve it. I think that an essential factor in perseverance and resilience is knowing how important it is to ask for help when you need it. Delaying asking for help can be counterproductive and an ineffective use of time.
+
+
 
 ## Work Experience
 
 <h3>Peabody Housing Association (October 2018 to May 2022)</h3>  
 
 **Senior Sales Executive**
-
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Building models with the data to analyse the effect of different factors on business KPI’s. Factors can include competitor, buyers’ profile etc. This is used to forecast KPI’s, assess feasibility of targets, identifying market seasonality, attributing sales, and working out underlying effect of market.
+- Take lead on my current scheme, manage day to activity for sales executive who are working on the scheme with me.
+- Agree budgets for each show home with the Sales Director/Marketing Director, and brief liaise with interior designers accordingly, and in conjunction with the Marketing Team.
+- Propose sales strategies to the Sales Director for developments / plots as and when required.
 
 <h3>Hill Partnership (March 2018 to October 2018)</h3>
 
 **Sales Executive** 
+- To ensure each site launch and open evenings are always fully staffed to the required level.
+- Secure the sale of new homes and achieve reservations, contract exchanges and legal completions in line with company targets.
+- Ensure that your developments are well presented on all websites and any other digital portals, to the highest standard possible and using high quality photography.
+- Carry out an accurate up-to-date competitor analysis for each development on a monthly basis.
 
 <h3>East Thames(Part of the L&Q Group) (March 2015 to March 2018)</h3>
 
@@ -44,41 +62,6 @@ The world of modern technology keeps me both motivated and dedicated to working 
 
 **Wellness Supervisor**
 
-
-
-
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
