@@ -20,21 +20,27 @@ The world of modern technology keeps me both motivated and dedicated to working 
 ## Work Experience
 
 <h3>Peabody Housing Association (October 2018 to May 2022)</h3>  
-*Senior Sales Executive*
+
+**Senior Sales Executive**
+
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
 <h3>Hill Partnership (March 2018 to October 2018)</h3>
-Sales Executive 
+
+**Sales Executive** 
 
 <h3>East Thames(Part of the L&Q Group) (March 2015 to March 2018)</h3>
-_Sales Associates _
+
+**Sales Associates**
 
 <h3>Bairstow Eves (October 2007 to March 2015)</h3>
-_Senior Sales Progressor _
+
+**Senior Sales Progressor**
 
 <h3>Greenwich Leisure ltd (Feb 2004 to September 2007)</h3>
-_Wellness Supervisor _
+
+**Wellness Supervisor**
 
 
 
