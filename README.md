@@ -3,7 +3,7 @@
 A driven and aspiring Junior Software Developer, looking for a role where I can develop and continue to grow whilst learning within the tech industry.
 I decided to leave my established career as a Senior Sales Executive within the property sector to pursue my passion in software development and to seek a more fulfilling and creative professional direction.
 
-I began my career change journey with a highly selective bootcamp, Makers Academy Where I learned to adopt coding best practices and developed a good understanding of programming fundamentals. The nature of the bootcamp enabled me to both effectively self manage during independent projects, as well as collaborate as part of a productive team to produce high quality work.
+I began my career change journey with a highly selective bootcamp, [Makers Academy](https://makers.tech/about-us/) Where I learned to adopt coding best practices and developed a good understanding of programming fundamentals. The nature of the bootcamp enabled me to both effectively self manage during independent projects, as well as collaborate as part of a productive team to produce high quality work.
 
 I thrive to learn and further develop my skills, whilst testing new concepts with analytical drives to see if they work. An innate curiosity will equip me with the skills needed to spot opportunities and solve problems.
 The world of modern technology keeps me both motivated and dedicated to working within the industry, where it is already driving meaningful change in almost every major industry.
@@ -19,21 +19,21 @@ The world of modern technology keeps me both motivated and dedicated to working 
 
 ## Work Experience
 
-**Peabody Housing Ass** (October 2018 to May 2022)  
-_Senior Sales Executive _
+<h3>Peabody Housing Association (October 2018 to May 2022)</h3>  
+*Senior Sales Executive*
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Hill Partnership ** (March 2018 to October 2018)
-_Sales Executive _
+<h3>Hill Partnership (March 2018 to October 2018)</h3>
+Sales Executive 
 
-**East Thames(Part of the L&Q Group) ** (March 2015 to March 2018)
+<h3>East Thames(Part of the L&Q Group) (March 2015 to March 2018)</h3>
 _Sales Associates _
 
-**Bairstow Eves ** (October 2007 to March 2015)
+<h3>Bairstow Eves (October 2007 to March 2015)</h3>
 _Senior Sales Progressor _
 
-**Greenwich Leisure ltd ** (Feb 2004 to September 2007)
+<h3>Greenwich Leisure ltd (Feb 2004 to September 2007)</h3>
 _Wellness Supervisor _
 
 
