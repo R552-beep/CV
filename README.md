@@ -1,12 +1,10 @@
 <h1 align="center"> Ruzeka Uddin </h1>
 
-A driven and aspiring Junior Software Developer, looking for a role where I can develop and continue to grow whilst learning within the tech industry.
-I decided to leave my established career as a Senior Sales Executive within the property sector to pursue my passion in software development and to seek a more fulfilling and creative professional direction.
+I am a self-motivated and driven Software Developer looking for a role where I can develop and continue to grow whilst learning within the tech industry. I decided to leave my established career as a Senior Sales Executive within the property sector to pursue my passion for software development and seek a more fulfilling and creative professional direction.
 
-I began my career change journey with a highly selective bootcamp, [Makers Academy](https://makers.tech/about-us/) Where I learned to adopt coding best practices and developed a good understanding of programming fundamentals. The nature of the bootcamp enabled me to both effectively self manage during independent projects, as well as collaborate as part of a productive team to produce high quality work.
+I began my career change journey with a highly selective Bootcamp, Makers Academy, Where I learned to adopt coding best practices and developed a good understanding of programming fundamentals. In addition, the nature of the Bootcamp enabled me to effectively self-manage during independent projects and collaborate as part of a productive team to produce high-quality work.
 
-I thrive to learn and further develop my skills, whilst testing new concepts with analytical drives to see if they work. An innate curiosity will equip me with the skills needed to spot opportunities and solve problems.
-The world of modern technology keeps me both motivated and dedicated to working within the industry, where it is already driving meaningful change in almost every major industry.
+I thrive on learning and further developing my skills, testing new concepts with analytical drives to see if they work. An innate curiosity will equip me with the skills to spot opportunities and solve problems. The world of modern technology keeps me both motivated and dedicated to working within the industry, where it is already driving meaningful change in almost every primary sector.
 
 
 
