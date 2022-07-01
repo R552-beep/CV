@@ -19,8 +19,8 @@ I thrive on learning and further developing my skills, testing new concepts with
 ## Soft Skills
 
 #### Communication 
-Is an important skill in any profession - In my previous role I have been able to effectively communicate, advocate and negotiate with a broad range of stakeholders, customers & marketing team. I have worked on complex projects where there were delays and land issues on a large scale, this included a written update to my customers & detailed report to head of sales with strategies to overcome the problem. 
-These skills have proven useful in the Makers Academy team projects and specially when coding in a pair. It's essential that you not only confidently express your ideas regarding a project, but also listen carefully to others.
+It is an essential skill in any profession. In my previous role, I have effectively communicated, advocated and negotiated with a broad range of stakeholders, customers & marketing team. In addition, I have worked on complex projects where there were delays and land issues on a large scale, including a written update to my customers & detailed report to the head of sales with strategies to overcome the problem. 
+These skills have proven helpful in the Makers Academy team projects, especially when coding in a pair. You must not only confidently express your ideas regarding a project but also listen carefully to others.
 
 #### Critical Thinker
 One key aspect of working as a software developer that I love is: problem solving. My background in sales helped me to develop the skills that I need to be capable of being assertive and delivering solutions to problems. I have found coding to help improve my logical reasoning and decision making abilities.
