@@ -27,8 +27,12 @@ During my time at Makers, I have continuously demonstrated an effective collabor
 I always seek to develop strong relationships, aspire to display positivity amongst colleagues, and strongly value the critical fundamentals of teamwork. I have recently had the opportunity to develop this skillset further, where I have taken on regular pairing sessions with other alumni to continue our learning journey. 
 
 
-#### Perseverance and Resilience
-When faced with a challenging obstacle, I am the type of person that will commit to spending the time necessary to break it down. When a task seems impossible at first, I do not give up because I believe that if you set your mind on something, you will always be able to achieve it. I think that an essential factor in perseverance and resilience is knowing how important it is to ask for help when you need it. Delaying asking for help can be counterproductive and an ineffective use of time.
+#### Organisation and Time Management
+Effective time management and working under pressure are skills that I have excelled at. I am productive, proactive, and committed to achieving success. I'm self-managed, organised and employed tools and techniques to ensure deadlines, milestones and targets are met: this has been showcased through my previous work experience and my time at Makers Academy.
+Within my past work experience, my roles included consistently managing  multi-million-pound projects (e.g.https://www.fishislandvillage.co.uk), each project came with its own set of clients and stakeholders;  active selling, product demonstration, lead generation strategy, progressing sales, managing budgets and maximise sales revenue and achieving targets. As a result, I can prioritise tasks and ensure my time is utilised efficiently.
+I’ve learnt about the Agile process, similar to how I have worked in previous roles with regular meetings and discussions, where all team members can share their ideas in an open discussion.
+My organisational skills have been further established through various projects that I’ve completed, particularly my last two group projects. We used many administrative tools to prioritise agile development. That included Trello, a project board for managing tickets and observing workflow, Google drive, to store our resources and documentation of our daily stand-ups and retros, and GitHub issues to focus on essential tasks and manage workflow simultaneously. Additionally, I've used various tools to assist with my note-taking and process modelling, such as Miro and Excalidraw.
+
 
 
 
