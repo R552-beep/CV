@@ -65,6 +65,10 @@ My organisational skills have been further established through various projects 
 <h3>Greenwich Leisure ltd (February 2004 to September 2007)</h3>
 
 **Wellness Supervisor**
+- I supervised Fitness Services, Sales, Customer Service and delivery of Wellness brands.
+Achieving Sales targets, Revenue Protection and dealing with Reception Procedures.
+I managed internal & external marketing promotions, including retention - all aspects.
+
 
 
 ## Education
