@@ -1,4 +1,4 @@
-<h1 align="center"> Ruzeka Uddin - Junior Developer </h1>
+<h1 align="center"> Ruzeka Uddin - Junior Software Developer </h1>
 
 I am an ambitious and driven Junior Software Developer looking for a role where I can develop and continue to grow whilst learning within the tech industry. My passion for software development led me to leave my established career as a Senior Sales Executive within the property sector to pursue a more fulfilling and creative career path.
 
