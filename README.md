@@ -28,11 +28,9 @@ Throughout my professional career and during Makers Bootcamp, I have demonstrate
 My track record of effectively managing time and working under pressure makes me a valuable employee. In addition, my goal to achieve success drives me to be productive, proactive and successful. Throughout my career and at Makers Academy, I have demonstrated my ability to self-manage, be organised and use tools and techniques to meet deadlines, milestones and targets. In my last role, I worked on various challenging projects. I was involved in active selling, product demonstrations, lead generation techniques, increasing sales revenue, and budgeting for and maximising the company's revenue. As a result, I can streamline my workload by prioritising tasks and utilising my time effectively. My organisation skills have further developed through various projects at Makers Academy, particularly my last two group projects.  As part of our agile development process, we used several administrative tools. Such as Trello to manage tickets and observe workflow. Google Drive for documents and resources for our daily stand-up and retros, and Github to manage progress and coordinate workflow. To assist me with my process modelling and note-taking, I have used Miro and Excalidraw.  
 
 
-
-
 ## Work Experience
 
-<h3>Peabody Housing Association (October 2018 to May 2022)</h3>  
+<h3>Peabody Housing Association (October 2018 to June 2022)</h3>  
 
 **Senior Sales Executive**
 - Building models with the data to analyse the effect of different factors on business KPI’s. Factors can include competitor, buyers’ profile etc. This is used to forecast KPI’s, assess feasibility of targets, identifying market seasonality, attributing sales, and working out underlying effect of market.
@@ -51,12 +49,17 @@ My track record of effectively managing time and working under pressure makes me
 <h3>East Thames(Part of the L&Q Group) (March 2015 to March 2018)</h3>
 
 **Sales Associates**
+- To maximise sales and income whilst providing good customer service, 
+- Consulting with clients to identify their requirements, complete relevant paperwork, and reach monthly sales targets.
+- Promote and sell a new home to a client while building and maintaining a close relationship with them.
 
 <h3>Bairstow Eves (October 2007 to March 2015)</h3>
 
 **Sales Negotiator/Senior Sales Progressor**
 - I liaised with clients, agents, brokers, surveyors, and solicitors daily. Communicating deadlines to ensure effective sales progression and prompt exchange of contracts. Production of sales progression reports, updating and maintaining files and guiding sellers/buyers through the legal process of residential property sales.
--
+- To interview applicants in a structured fashion, identifying needs and business opportunities, contacting qualified applicants regularly, advising them of suitable properties and arranging viewing appointments. Negotiating with potential purchasers, ensuring that our client's interests are a primary concern, and achieving a sale that satisfies both parties.
+- I assisted solicitors in completing the sales, developing the skill of valuing properties, and introducing clients to the mortgage consultant. To achieve and exceed sales targets as agreed with my manager. To be familiar with all systems, procedures, and legislation, attend training sessions and participate fully.
+
 
 <h3>Greenwich Leisure ltd (February 2004 to September 2007)</h3>
 
