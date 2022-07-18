@@ -54,7 +54,9 @@ My track record of effectively managing time and working under pressure makes me
 
 <h3>Bairstow Eves (October 2007 to March 2015)</h3>
 
-**Senior Sales Progressor**
+**Sales Negotiator/Senior Sales Progressor**
+- I liaised with clients, agents, brokers, surveyors, and solicitors daily. Communicating deadlines to ensure effective sales progression and prompt exchange of contracts. Production of sales progression reports, updating and maintaining files and guiding sellers/buyers through the legal process of residential property sales.
+-
 
 <h3>Greenwich Leisure ltd (February 2004 to September 2007)</h3>
 
