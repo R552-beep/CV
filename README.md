@@ -4,6 +4,8 @@ I am an ambitious and driven Software Developer looking for a role where I can d
 
 My career transition began with a highly selective Bootcamp, Makers Academy, where I learned how to implement best coding practices and fundamental programming concepts. Additionally, the Bootcamp's nature helped me effectively self-manage my transition.
 
+One of the most satisfying aspects of software development is, being challenged with problem-solving skills; this encourages me to think creatively and develop innovative solutions.
+
 I am a technology enthusiast driven to learn and further develop my skills, testing new concepts and solving problems using analytical approaches. My innate curiosity will help me spot opportunities to solve problems. The world of modern technology keeps me both motivated and committed. 
 
 
