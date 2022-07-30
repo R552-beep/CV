@@ -74,17 +74,14 @@ I managed internal & external marketing promotions, including retention - all as
 ## Education
 
 #### Makers Academy (March 2022 to June 2022)
-- Object-oriented design
-- Focus on pair programming and group projects
-- Agile working style 
-- EQ, empathy and teamwork workshops
-- XP values
-- Full-stack web development
-- Independent learning and problem-solving
-- Experience with MVC framework
-- Frameworks/library’s: Express, React, Sinatra
-- Databases: PostgreSQL, Mongoose
-- Testing: Rspec, Jest, Cypress
+- Taking control of my learning process and timeboxing tasks to increase my learning ability.
+- Applied TDD and OOP while pair programming with different people every day to discuss and explain new concepts being learned
+- Created a productive and efficient working environment in group projects by utilising agile methodologies
+- Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
+- Developed self-teaching skills through independent learning and weekend challenges (e.g. Takeaway Challenge).
+- Transformed what I had learned in Ruby over to Javascript to demonstrate that I can learn a new language efficiently
+- Understand project requirements by creating user stories to define MVP's features. Then, breaking features into smaller tasks to easily accomplish them.
+
 
 #### Newham Sixth Form College (Sep 1999 to June 2002)
 
