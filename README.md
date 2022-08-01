@@ -79,8 +79,9 @@ I managed internal & external marketing promotions, including retention - all as
 - Created a productive and efficient working environment in group projects by utilising agile methodologies
 - Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
 - Developed self-teaching skills through independent learning and weekend challenges (e.g. Takeaway Challenge).
-- Transformed what I had learned in Ruby over to Javascript to demonstrate that I can learn a new language efficiently
+- Transformed what I had learned in Ruby over to Javascript to demonstrate that I can learn a new language efficiently.
 - Understand project requirements by creating user stories to define MVP's features. Then, breaking features into smaller tasks to easily accomplish them.
+-  Designed and worked with database schemas with relational database SQL and unrelational MongoDB.
 
 
 #### Newham Sixth Form College (Sep 1999 to June 2002)
