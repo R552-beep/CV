@@ -15,6 +15,7 @@ I am a technology enthusiast driven to learn and further develop my skills, test
 | ---------------------------- | ----------------- | ----------------- |
 | [Acebook-metaperverse](https://github.com/R552-beep/acebook-metaperverse.git)| A Facebook clone which allows users to sign up, login, create, view and like posts and comments, |JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, HTML, CSS, Jest, Cypress |
 | [Makers-BnB](https://github.com/R552-beep/Makers-BnB.git) | A Air BnB clone which allows users to hire and rent out residential property | Ruby, Sinatra, PostgresSQL, Activerecord, Rspec, Capybara |
+|[Bank Test](https://github.com/R552-beep/Bank-tech-test)| A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.|Ruby, irb, rspec, Rubocop, Simplecov
 | [Rock Paper Scissors](https://github.com/R552-beep/rps-challenge.git)|A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges|Ruby, Sinatra, HTML, CSS, Rspec, Capybara|
 
 ## Soft Skills
@@ -33,7 +34,7 @@ My track record of effectively managing time and working under pressure makes me
 
 <h3>Peabody Housing Association (October 2018 to June 2022)</h3>  
 
-**Senior Sales Executive**
+**Sales Executive | Senior Sales Executive**
 - Building models with the data to analyse the effect of different factors on business KPI’s. Factors can include competitor, buyers’ profile etc. This is used to forecast KPI’s, assess feasibility of targets, identifying market seasonality, attributing sales, and working out underlying effect of market.
 - Take lead on my current scheme, manage day to activity for sales executive who are working on the scheme with me.
 - Agree budgets for each show home with the Sales Director/Marketing Director, and brief liaise with interior designers accordingly, and in conjunction with the Marketing Team.
@@ -56,7 +57,7 @@ My track record of effectively managing time and working under pressure makes me
 
 <h3>Bairstow Eves (October 2007 to March 2015)</h3>
 
-**Sales Negotiator/Senior Sales Progressor**
+**Sales Negotiator | Senior Sales Progressor**
 - I liaised with clients, agents, brokers, surveyors, and solicitors daily. Communicating deadlines to ensure effective sales progression and prompt exchange of contracts. Production of sales progression reports, updating and maintaining files and guiding sellers/buyers through the legal process of residential property sales.
 - To interview applicants in a structured fashion, identifying needs and business opportunities, contacting qualified applicants regularly, advising them of suitable properties and arranging viewing appointments. Negotiating with potential purchasers, ensuring that our client's interests are a primary concern, and achieving a sale that satisfies both parties.
 - I assisted solicitors in completing the sales, developing the skill of valuing properties, and introducing clients to the mortgage consultant. To achieve and exceed sales targets as agreed with my manager. To be familiar with all systems, procedures, and legislation, attend training sessions and participate fully.
