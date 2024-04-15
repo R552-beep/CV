@@ -32,6 +32,14 @@ My track record of effectively managing time and working under pressure makes me
 
 ## Work Experience
 
+<h3>Islington & Shoredith Housing Association (May 2023 to Present)</h3> 
+
+**Sales & Marketing Executive**
+- Conduct market research, competitor analysis, and customer surveys to identify market trends and customer needs.
+- Create persuasive sales collateral, advertisements, and engage with potential clients through various communication channels.
+- Analyze sales and marketing data to measure campaign performance, track key performance indicators (KPIs), and generate reports.
+- Manage and nurture client relationships through a CRM system, ensuring customer satisfaction and repeat business.
+  
 <h3>Peabody Housing Association (October 2018 to June 2022)</h3>  
 
 **Sales Executive | Senior Sales Executive**
